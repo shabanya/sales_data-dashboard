@@ -9,4 +9,5 @@
 - `insights.txt`
 
 **Tools used**
+- power bi
 - Python (pandas, matplotlib)
